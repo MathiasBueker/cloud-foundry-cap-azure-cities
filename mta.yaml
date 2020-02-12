@@ -1,7 +1,7 @@
 _schema-version: 3.3.0
 ID: city-explorer-demo-app
 version: 1.4.0
-parameters:
+parameters: 
   enable-parallel-deployments: true
 modules:
   - name: city-cap-router
